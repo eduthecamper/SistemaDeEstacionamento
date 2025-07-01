@@ -77,7 +77,13 @@ Sistema completo para controle de estacionamento, com backend em .NET 8 (API RES
     ```
     > Use a mesma porta do backend.
 
-4. **Inicie o frontend:**
+4. **Configure o .env no frontend:**
+    ```
+    "REACT_APP_API_URL=http://localhost:5207/api"
+    ```
+    > Use a mesma porta do backend.
+
+5. **Inicie o frontend:**
     ```
     npm start
     ```

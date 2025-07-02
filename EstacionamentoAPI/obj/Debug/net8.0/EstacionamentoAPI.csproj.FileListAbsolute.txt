@@ -167,3 +167,4 @@ C:\Users\Eduardo\Desktop\EstacionamentoAPI\estacionamentoAPI\obj\Debug\net8.0\re
 C:\Users\Eduardo\Desktop\EstacionamentoAPI\estacionamentoAPI\obj\Debug\net8.0\EstacionamentoAPI.pdb
 C:\Users\Eduardo\Desktop\EstacionamentoAPI\estacionamentoAPI\obj\Debug\net8.0\EstacionamentoAPI.genruntimeconfig.cache
 C:\Users\Eduardo\Desktop\EstacionamentoAPI\estacionamentoAPI\obj\Debug\net8.0\ref\EstacionamentoAPI.dll
+C:\Users\Eduardo\Desktop\EstacionamentoAPI\EstacionamentoAPI\obj\Debug\net8.0\EstacionamentoAPI.sourcelink.json
